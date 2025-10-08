@@ -4,6 +4,7 @@
 # 使用文档｜RAG（LangChain + Qwen2.5-7B-Instruct + BGE-M3 + Chroma）
 
 适配环境：Linux/集群（你当前的服务器）；GPU：**RTX 3090 24GB（FP16，无量化）**。
+参考文章：https://mp.weixin.qq.com/s/GuljXiWyNDfLrESkS2IMRQ
 
 ## 1. 目录结构与文件说明
 
